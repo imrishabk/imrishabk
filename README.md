@@ -4,11 +4,10 @@
 Hey, I'm Rishab Karki — an undergraduate CS student passionate about building and learning.
 
 ### Area of interest
+- Cybersecurity
 - AI & Backend
 - Machine Learning
 - System Architecture
-- Linux
-- Security
 - Data Structure & Algorithms
 
 ### Dev Environment
