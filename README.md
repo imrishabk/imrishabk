@@ -18,7 +18,7 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 **Editor**: Neovim (Primary), VS Code
 
 ### Stack
-Golang, Python, Java, Typescript, Rust, C/CPP, Fiber, Chi, Scikit-learn, FastAPI, Spring Boots, Express.js, React.js, Next.js, Tailwind CSS, Docker, Linux, Azure, Git & Github
+Golang, Python, Java, Typescript, Rust, C/CPP, Fiber, Chi, Scikit-learn, FastAPI, Spring Boots, Express.js, React.js, Next.js, Tailwind CSS, Docker, Linux, Azure, Git & Github, Tailscale, Laravel
 
 
 ## Projects
